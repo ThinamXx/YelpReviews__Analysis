@@ -1,2 +1,2 @@
 # **Yelp Reviews Data**
-- I have just started working on the Notebook. I will update the Notebook each day.
+- I haven't completed working on this Notebook and I will update is each day. The Notebook is well Documented. I hope you will get insights from it. 
